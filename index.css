@@ -1,0 +1,8 @@
+* {
+    margin: 0 auto;
+    max-width: 980px;
+}
+
+#main {
+    background-image: url(images/out1.jpg);
+}
