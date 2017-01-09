@@ -1,9 +1,8 @@
 * {
     margin: 0 auto;
     max-width: 980px;
-    background-color: #38665d;
 }
 
 #main {
-    background-color: red;
+    background-color: green;
 }
